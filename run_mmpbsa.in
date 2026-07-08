@@ -1,0 +1,1 @@
+python usr/local/Chem/amber16/bin/MMPBSA.py -O -i mmpb-gbsa.in -o last5ns_100ns_RESULTS_MMGB_PBSA.dat -sp int_MN.prmtop -cp int_MN_NoBox.prmtop -rp MN.prmtop -lp int.prmtop -y last5ns_reimaged.mdcrd
